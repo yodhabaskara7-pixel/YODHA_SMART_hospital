@@ -54,7 +54,7 @@ cc_map        = bundle['cc_map']
 
 DEPT_INFO = {
     'Respiratory Medicine': {
-        'icon':'✌️😭','color':'#0284c7','bg':'#e0f2fe','border':'#7dd3fc',
+        'icon':'🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿','color':'#0284c7','bg':'#e0f2fe','border':'#7dd3fc',
         'desc':'Specialises in conditions affecting the lungs and airways.',
         'next':['Visit Level 2, Wing B','Estimated wait: 15–25 min','Please wear a mask']
     },
@@ -74,12 +74,12 @@ DEPT_INFO = {
         'next':['Visit Level 4, Wing A','Estimated wait: 25–35 min','Bring list of current medications']
     },
     'General Medicine': {
-        'icon':'🗿','color':'#059669','bg':'#d1fae5','border':'#6ee7b7',
+        'icon':'🗿🗿🗿🗿🗿🗿🗿','color':'#059669','bg':'#d1fae5','border':'#6ee7b7',
         'desc':'Handles general health concerns and non-specialist conditions.',
         'next':['Visit Level 1, Wing A','Estimated wait: 10–15 min','Registration desk is open 24/7']
     },
     'Dermatology': {
-        'icon':'🗿','color':'#b45309','bg':'#fef9c3','border':'#fde68a',
+        'icon':'🗿🗿🗿🗿🗿🗿🗿🗿🗿','color':'#b45309','bg':'#fef9c3','border':'#fde68a',
         'desc':'Specialises in skin, hair, and nail conditions.',
         'next':['Visit Level 2, Wing D','Estimated wait: 15–20 min','Bring photos of affected area if possible']
     },
