@@ -137,7 +137,7 @@ with st.form("triage_form"):
         skin_rash = st.checkbox("✌️😭  Skin Rash")
         hallucination = st.checkbox("🥀💔hallucination")
 
-    with c7:
+    with c6:
         red_eyes = st.checkbox("🗿🥀🥀 🗿red eyes")
     
     st.markdown("<br>", unsafe_allow_html=True)
