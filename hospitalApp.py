@@ -135,8 +135,6 @@ with st.form("triage_form"):
     c5, c6, c7, _ = st.columns(4)
     with c5:
         skin_rash = st.checkbox("✌️😭  Skin Rash")
-        
-    with c6:
         hallucination = st.checkbox("🥀💔hallucination")
 
     with c7:
