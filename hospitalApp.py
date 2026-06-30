@@ -135,11 +135,13 @@ with st.form("triage_form"):
     c5, c6, c7, _ = st.columns(4)
     with c5:
         skin_rash = st.checkbox("✌️😭  Skin Rash")
-    with c6:
-        red_eyes = st.checkbox("🗿🥀🥀 🗿red eyes")
+        
     with c6:
         hallucination = st.checkbox("🥀💔hallucination")
 
+    with c7:
+        red_eyes = st.checkbox("🗿🥀🥀 🗿red eyes")
+    
     st.markdown("<br>", unsafe_allow_html=True)
 
     # Section 2 — Duration & Complaint
